@@ -4,6 +4,7 @@ console.log(/^[https://]|^[http://]/.test(str));
 
 //Задача4
 let str0='a.jpg';
+//А если картинка будет с расширением jpeg?
 console.log(/.jpg$/.test(str0));
 
 //Задача6
